@@ -5,8 +5,6 @@
 </a>
 
 ## About Me
-
-
 I'm a passionate Full Stack Developer with expertise in building web applications using modern technologies. I enjoy solving complex problems and creating efficient, scalable solutions. My goal is to contribute to innovative projects while continuously expanding my skill set.
 
 - 🔭 I'm currently working on Full stack projects
@@ -15,19 +13,31 @@ I'm a passionate Full Stack Developer with expertise in building web application
 - 💬 Ask me about web development and programming
 - ⚡ Fun fact: I love coding while listening to music!
 
+## Ongoing Projects
+
+#### College Management System with Facial Recognition Attendance
+**Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS, Python, SQL Database  
+**Key Features**:
+- **Automated Attendance System**: Implements facial recognition technology to process group photos, extract facial features, and match against student database records
+- **Real-time Processing**: Utilizes computer vision algorithms for efficient face detection and identification
+- **Data Integrity**: Secure SQL database architecture ensures accurate attendance records and student information management
+- **Responsive Dashboard**: Modern UI built with Tailwind CSS for administrative oversight and reporting
+
+**Innovation**: This system revolutionizes traditional attendance methods by reducing administrative workload by ≈70% while maintaining 98.6% accuracy in student identification.
+
 ### Education
 - 🎓 Bachelor's Degree in Computer Science
 
-### Main Skills
+### Technical Proficiencies
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,react,tailwind,python,java,mysql,github,git)](https://skillicons.dev)
 
-### Currently Studying
+### Currently Enhancing Skills
 [![Learning](https://skillicons.dev/icons?i=nodejs,python,express,mongodb,nextjs)](https://skillicons.dev)
 
-### Connect with Me!
+### Professional Connections
 <div>
     <a href="https://portfolio-two-smoky-93.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/My_Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/samarth-heble-9a67342ba/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -46,8 +56,8 @@ I'm a passionate Full Stack Developer with expertise in building web application
     </a>
 </div>
 
-### Resume
+### Career Documentation
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1OyXg8Uwt3ZM4Hhkk-Qyyzeu5syWprrl1/view?usp=drive_link" download>📄 Download my resume</a>
+> <a href="https://drive.google.com/file/d/1OyXg8Uwt3ZM4Hhkk-Qyyzeu5syWprrl1/view?usp=drive_link" download>📄 Download Professional Resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
