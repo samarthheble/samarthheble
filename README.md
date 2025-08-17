@@ -9,15 +9,14 @@
 
 I'm a passionate Full Stack Developer with expertise in building web applications using modern technologies. I enjoy solving complex problems and creating efficient, scalable solutions. My goal is to contribute to innovative projects while continuously expanding my skill set.
 
-- 🔭 I'm currently working on MERN stack projects
-- 🌱 Learning advanced cloud computing concepts
+- 🔭 I'm currently working on Full stack projects
+- 🌱 Learning advanced AI/ML concepts
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about web development and programming
 - ⚡ Fun fact: I love coding while listening to music!
 
 ### Education
 - 🎓 Bachelor's Degree in Computer Science
-- 📚 Diploma in Advanced Computing
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,react,tailwind,python,java,mysql,github,git)](https://skillicons.dev)
@@ -27,6 +26,9 @@ I'm a passionate Full Stack Developer with expertise in building web application
 
 ### Connect with Me!
 <div>
+    <a href="https://portfolio-two-smoky-93.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/My_Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="https://www.linkedin.com/in/samarth-heble-9a67342ba/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
