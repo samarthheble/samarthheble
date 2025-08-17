@@ -27,19 +27,19 @@ I'm a passionate Full Stack Developer with expertise in building web application
 
 ### Connect with Me!
 <div>
-    <a href="https://www.linkedin.com/in/samarth-heble" target="_blank">
+    <a href="https://www.linkedin.com/in/samarth-heble-9a67342ba/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/samarth_heble" target="_blank">
+    <a href="https://instagram.com/samarth_h30" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://www.facebook.com/samarth.heble" target="_blank">
+    <a href="https://www.facebook.com/samarth.heble.52" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://www.naukri.com/samarth-heble" target="_blank">
+    <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
         <img src="https://img.shields.io/badge/Naukri-0A66C2?style=for-the-badge" alt="Naukri"/>
     </a>
-    <a href="mailto:samarth.heble@example.com" target="_blank">
+    <a href="mailto:sam31heble@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </div>
