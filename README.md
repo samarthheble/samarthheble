@@ -80,7 +80,7 @@
 
 ## 📜 Career Documentation
 > [!IMPORTANT]  
-> 📄 <a href="https://drive.google.com/file/d/1OyXg8Uwt3ZM4Hhkk-Qyyzeu5syWprrl1/view?usp=drive_link" target="_blank">Download My Professional Resume</a>
+> 📄 <a href="https://drive.google.com/file/d/1UyDnwM0vZXPlE02F1RPT2oOlvrlPsPsv/view?usp=drive_link" target="_blank">Download Resume</a>
 
 ---
 
