@@ -1,11 +1,11 @@
 <!-- 🚀 Futuristic 3D Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=🚀%20Samarth%20Heble%20|%20Full%20Stack%20Developer%20🚀&fontAlign=50&fontAlignY=40&fontColor=00FFFF&fontSize=38&desc=Code%20+%20AI%20+%20Innovation&descAlign=50&descAlignY=65"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=🚀%20Samarth%20Heble%20|%20Full%20Stack%20Developer%20🚀&fontAlign=50&fontAlignY=40&fontColor=00FFFF&fontSize=38&desc=%20+%20%20+%&descAlign=50&descAlignY=65"/>
 </p>
 
 <!-- 📝 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Samarth+Heble;🚀+Full+Stack+Developer;🤖+AI+%26+Automation+Enthusiast;🎶+Music+Lover+%7C+Tech+Explorer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Samarth+Heble;🚀+Full+Stack+Developer;;🚀+Tech+Explorer" alt="Typing Animation"/>
 </p>
 
 ---
