@@ -74,7 +74,7 @@
 ---
 
 ## 📜 Career Documentation
-📄 [**Download Resume**](https://drive.google.com/file/d/1UyDnwM0vZXPlE02F1RPT2oOlvrlPsPsv/view?usp=drive_link)  
+📄 [**Download Resume**](https://drive.google.com/file/d/11UTJfhRJYuKPLVQVJZDVEy1L1w_-Lx9H/view?usp=sharing)  
 
 ---
 
