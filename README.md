@@ -16,8 +16,6 @@
 🎯 Loves solving tough challenges & experimenting with cutting-edge tech.  
 🎶 Fun fact: **Code + Music = Flow Mode** 🎧  
 
-- 🔭 Currently working on **AI-powered Web Apps**  
-- 🌱 Exploring **Advanced Machine Learning & Automation**  
 - 👯 Open to **Collabs & Open Source Projects**   
 
 ---
